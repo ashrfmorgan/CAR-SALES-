@@ -81,23 +81,15 @@ III. DAX (Data Analysis Expressions)
 # Sample_Work
 
 * Dashboard Overview
-  
-[Insert Car Sales Dashboard overview screenshot here]
+
+
+  <img width="800" height="436" alt="image" src="https://github.com/user-attachments/assets/c34640ea-53f3-45af-a0b5-99c93f410d80" />
+
+
 
 
 <hr>
 
 
-* KPI Cards & Financial Metrics
-
-[Insert KPI cards and financial metrics screenshot here]
-
-
-<hr>
-
-
-* Sales Trend Analysis
-
-[Insert sales trend visualization screenshot here]
 
 
